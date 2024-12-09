@@ -1,6 +1,6 @@
-# Cooldown Overlay
+# BetterCooldownsHUD
 
-**Cooldown Overlay** is a Minecraft mod that displays item cooldowns directly on your HUD, keeping you informed about item availability in real-time.
+**BetterCooldownsHUD** is a Minecraft mod that displays item cooldowns directly on your HUD, keeping you informed about item availability in real-time.
 
 ---
 
