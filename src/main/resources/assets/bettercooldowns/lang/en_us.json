@@ -1,0 +1,11 @@
+{
+  "text.autoconfig.bettercooldowns.option.entrySpacing": "Cooldown Spacing ( distance between each cooldown entry )",
+  "text.autoconfig.bettercooldowns.option.hudWidth": "Hud Width",
+  "text.autoconfig.bettercooldowns.option.textPadding": "Text Padding",
+  "text.autoconfig.bettercooldowns.option.hudScale": "Hud Scale",
+  "text.autoconfig.bettercooldowns.option.easingDuration": "Easing duration in ticks ( Set to 0 to disable )",
+  "text.autoconfig.bettercooldowns.option.backgroundColor": "Entry background color",
+  "text.autoconfig.bettercooldowns.option.textColor": "Entry text color",
+  "text.autoconfig.bettercooldowns.option.position": "Hud Position",
+  "text.autoconfig.bettercooldowns.title": "Better Cooldowns Options"
+}

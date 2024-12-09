@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "bettercooldowns",
+	"version": "${version}",
+	"name": "BetterCooldowns",
+	"description": "Simple mod to display item cooldowns.",
+	"authors": [
+		"ProunceDev"
+	],
+	"contact": {
+		"sources": "https://github.com/ProunceDev/BetterCooldowns"
+	},
+	"license": "MIT",
+	"icon": "assets/bettercooldowns/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"modmenu": [
+			"net.prouncedev.config.ModMenuImpl"
+		],
+		"main": [
+			"net.prouncedev.BetterCooldowns"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15",
+		"minecraft": "${minecraft}",
+		"fabric-api": "*",
+		"cloth-config2": "${cloth_config2}",
+		"modmenu": "${modmenu}"
+	}
+}
